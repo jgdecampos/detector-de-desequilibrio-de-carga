@@ -1,0 +1,1 @@
+# detector-de-desequilibrio-de-carga
